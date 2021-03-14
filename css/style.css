@@ -12,8 +12,9 @@ body {
 }
 
 .centralizado {
-    margin: 3px 300px 0 300px;
-    word-spacing: 3px;
+    max-width: 1140px;
+    padding: 0 25px;
+    margin: 0 auto;
 }
 
 header {
@@ -23,7 +24,7 @@ header {
 }
 
 .links {
-    text-align: center;  
+    text-align: center;
 }
 
 .links a {
@@ -40,20 +41,16 @@ header {
 }
 
 #logogeo {
-    margin-top: 38px;
-    margin-right: auto;
-    margin-left: 50px;
-    padding: 50px;
-
+    padding: 10px;
+    text-align: center;
 }
 
 #logogeo img {
-    height: 450px;
     width: 950px;
+    max-width: 100%;
     border-image: 100%;
-	margin-left: auto;
-	margin-right: auto;
-   
+    margin-left: auto;
+    margin-right: auto;
  }
 
 #links_footer {
@@ -72,7 +69,7 @@ header {
 .sobre__titulo {
     font-size: 35px;
   }
-  
+
 .sobre-descricao {
     font-size: 22px;
     line-height: 35px;
@@ -165,7 +162,7 @@ header {
     text-align: center;
     text-decoration:	underline;
 }
-  
+
 .redes-sociais__link {
     display: inline-block;
     width: 10%;
@@ -175,7 +172,7 @@ header {
     text-align: center;
     justify-content: center;
 }
- 
+
 .redes-sociais__img {
     margin-bottom: 15px;
     width: 35px;
@@ -184,5 +181,5 @@ header {
     justify-content: center;
 }
 
-  
+
 
