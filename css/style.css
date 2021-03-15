@@ -130,6 +130,21 @@ header {
     opacity: 1;
     text-align: justify;
 }
+#wrapper {
+    text-align: center;
+    padding: 32px;
+}
+
+#wrapper img {
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid blue;
+    margin-bottom: 32px;
+}
+.curriculo_lattes {
+    text-decoration: underline;
+    height: 150px;
+}
 
 /* SEÇÃO ENCONTROS */
 
