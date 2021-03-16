@@ -28,7 +28,7 @@ header {
 
 .links a {
     color: white;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 28px;
     margin: 0 16px;
     text-decoration: none;
@@ -66,12 +66,12 @@ header {
 /* SEÇÃO SOBRE */
 
 .sobre__titulo {
-    font-size: 35px;
+    font-size: 28px;
     padding: 30px;
 }
 
 .sobre-descricao {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 35px;
     font-weight: normal;
     margin-top: 35px;
@@ -82,14 +82,14 @@ header {
 /* SEÇÃO TRABALHOS */
 
 .trabalhos-titulo {
-    font-size: 35px;
+    font-size: 28px;
     margin-top: 35px;
     margin-bottom: 35px;
     padding: 30px;
 }
 
 .sobre-trabalhos {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 35px;
     font-weight: normal;
     margin-top: 35px;
@@ -101,14 +101,14 @@ header {
 /* SEÇÃO SEÇÃO MATERIAIS */
 
 .titulo-materiais {
-    font-size: 35px;
+    font-size: 28px;
     margin-top: 35px;
     margin-bottom: 35px;
     padding: 30px;
 }
 
 .sobre-materiais {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 35px;
     font-weight: normal;
     margin-top: 35px;
@@ -125,13 +125,13 @@ header {
 /* SEÇÃO MEMBROS */
 
 .titulo-membros {
-    font-size: 35px;
+    font-size: 28px;
     margin-top: 35px;
     margin-bottom: 35px;
 }
 
 .sobre-membros {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 35px;
     font-weight: normal;
     margin-top: 35px;
@@ -154,13 +154,13 @@ header {
 /* SEÇÃO ENCONTROS */
 
 .titulo-encontros {
-    font-size: 35px;
+    font-size: 28px;
     margin-top: 35px;
     margin-bottom: 35px;
 }
 
 .sobre-encontros {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 35px;
     font-weight: normal;
     margin-top: 35px;
