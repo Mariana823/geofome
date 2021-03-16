@@ -56,6 +56,7 @@ header {
     text-decoration: underline;
     border-bottom: 1px solid blue;
     height: 150px;
+    padding: 30px;
 }
 
 .footer {
@@ -66,6 +67,7 @@ header {
 
 .sobre__titulo {
     font-size: 35px;
+    padding: 30px;
 }
 
 .sobre-descricao {
@@ -74,7 +76,7 @@ header {
     font-weight: normal;
     margin-top: 35px;
     opacity: 1;
-    text-align: justify;
+    text-align: left;
 }
 
 /* SEÇÃO TRABALHOS */
@@ -83,6 +85,7 @@ header {
     font-size: 35px;
     margin-top: 35px;
     margin-bottom: 35px;
+    padding: 30px;
 }
 
 .sobre-trabalhos {
@@ -92,7 +95,7 @@ header {
     margin-top: 35px;
     margin-bottom: 35px;
     opacity: 1;
-    text-align: justify;
+    text-align: left;
 }
 
 /* SEÇÃO SEÇÃO MATERIAIS */
@@ -101,6 +104,7 @@ header {
     font-size: 35px;
     margin-top: 35px;
     margin-bottom: 35px;
+    padding: 30px;
 }
 
 .sobre-materiais {
@@ -110,7 +114,12 @@ header {
     margin-top: 35px;
     margin-bottom: 35px;
     opacity: 1;
-    text-align: justify;
+    text-align: left;
+}
+
+.img_cartilha {
+    margin-bottom: 10px;
+    margin-top: 25px;
 }
 
 /* SEÇÃO MEMBROS */
@@ -128,7 +137,7 @@ header {
     margin-top: 35px;
     margin-bottom: 35px;
     opacity: 1;
-    text-align: justify;
+    text-align: left;
 }
 
 #wrapper img {
@@ -157,7 +166,7 @@ header {
     margin-top: 35px;
     margin-bottom: 35px;
     opacity: 1;
-    text-align: justify;
+    text-align: left;
 }
 
 /* SEÇÃO CONTATOS */
@@ -175,6 +184,7 @@ footer {
     text-decoration: underline;
     line-height: 28px;
     margin: 0 16px;
+    max-width: 1140px;
 }
 
 .redes-sociais__link {
