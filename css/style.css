@@ -45,14 +45,12 @@ header {
 }
 
 #logogeo img {
-    width: 1000px;
+    width: 950px;
     max-width: 100%;
     border-image: 100%;
-    margin-top: 40px;
     margin-left: auto;
     margin-right: auto;
     opacity: 10;
-    padding: 60px;
 }
 
 #links_footer {
