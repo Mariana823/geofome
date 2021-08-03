@@ -121,12 +121,12 @@ tr:hover {
 
 /* link que ainda não foi visitado */
 a {
-    color: #414756;
+    color: black;
     text-decoration: none;
 }
 
 a:hover {
-    color: black;
+    color: blue;
     cursor: pointer;
 }
 
