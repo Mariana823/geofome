@@ -122,7 +122,6 @@ tr:hover {
 /* link que ainda não foi visitado */
 a {
     color: black;
-    text-decoration: none;
 }
 
 a:hover {
@@ -232,4 +231,39 @@ footer {
 .redes-sociais__img {
     fill: white;
     width: 36px;
+}
+
+/*--------------*/
+
+.live-natal {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+@media only screen and (min-width: 769px) {
+    .live-natal {
+        flex-direction: row;
+    }
+
+    .live-natal-banner {
+        margin-left: 35px;
+    }
+}
+
+.live-natal > * {
+    flex: 1;
+}
+
+.live-natal-banner img {
+    width: 100%;
+}
+
+.live-natal p {
+    line-height: 35px;
+    text-indent: 35px;
+}
+
+.live-natal ul {
+    line-height: 20px;
+    margin-left: 60px;
 }
